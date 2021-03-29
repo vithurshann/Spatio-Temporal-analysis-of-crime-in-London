@@ -3,7 +3,7 @@ An effictive visiual analytics approach to identify how frequently crime occurs 
 
 1) LondonCrime_NOTEBOOK.ipynb: Consists of data analysis and visualization.
 
-2) VA_Rport.pdf: Repport of all findings and evaluvation of the study.
+2) VA_Rport.pdf: Report of all findings and evaluvation of the study.
 
 3) /Tableau workbooks consists of all dashboards mentioned in the notebook.  
    /Tableau workbooks/SpatialAndTemporal.twb: Spatial distribution of temporal values and Temporal variation by spatial distribution.
