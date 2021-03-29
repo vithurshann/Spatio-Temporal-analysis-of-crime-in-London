@@ -6,8 +6,8 @@ An effictive visiual analytics approach to identify how frequently crime occurs 
 2) VA_Rport.pdf: Repport of all findings and evaluvation of the study.
 
 3) /Tableau workbooks consists of all dashboards mentioned in the notebook.  
-   /Tableau workbooks/SpatialAndTemporal: Spatial distribution of temporal values and Temporal variation by spatial distribution.
-   /Tableau workbooks/ClusterVariations: Temporal variations of the clusters (K-Means)
-   /Tableau workbooks/YouthCrime: Influence of youth on crime
-   /Tableau workbooks/TemporalCrimeType: Temporal variations by type of crime
+   /Tableau workbooks/SpatialAndTemporal.twb: Spatial distribution of temporal values and Temporal variation by spatial distribution.
+   /Tableau workbooks/ClusterVariations.twb: Temporal variations of the clusters (K-Means)
+   /Tableau workbooks/YouthCrime.twb: Influence of youth on crime
+   /Tableau workbooks/TemporalCrimeType.twb: Temporal variations by type of crime
    
